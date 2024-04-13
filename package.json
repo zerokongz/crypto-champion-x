@@ -1,0 +1,15 @@
+{  
+  "name": "crypto-champion-x",  
+  "version": "5.4.1",  
+  "description": "crypto-champion-x扩展",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/crypto-champion-x"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/crypto-champion-x"  
+}
